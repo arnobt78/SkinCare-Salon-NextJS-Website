@@ -3,7 +3,7 @@
 
 ## SkinCare-Salon-NextJS-Website
 
-SkinCare-Salon is a NextJS 14 Static Frontend Website, using React.js, Typescript, TailwindCSS, Framer-Motion, Tailwind-Merge, tailwindCSS-Animate, Lucide-React, React-Icons, React-Player, React-Reponsive features and deployed on Vercel.
+SkinCare-Salon is a NextJS 14 Static Frontend Website, using React.js, Typescript, TailwindCSS, Framer-Motion, Shadcn-UI, tailwindCSS-Animate, Lucide-React, React-Icons, React-Player, React-Reponsive, React-Countup features and deployed on Vercel.
 
 **Note: To check this website live, click here:** https://skincare-salon-arnob.vercel.app/
 
