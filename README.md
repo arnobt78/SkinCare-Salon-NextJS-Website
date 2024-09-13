@@ -1,9 +1,5 @@
 
-
-
-
-
-
+![Screenshot 2024-09-13 at 02 50 01](https://github.com/user-attachments/assets/3c23bd2d-bf2e-4d09-b991-2b451177739e) ![Screenshot 2024-09-13 at 02 50 26](https://github.com/user-attachments/assets/abee4693-f5c8-4669-9dad-0a6689a1a9b4) ![Screenshot 2024-09-13 at 02 50 49](https://github.com/user-attachments/assets/e9644d1f-550d-4bf4-a3da-fb07d912b346) ![Screenshot 2024-09-13 at 02 51 07](https://github.com/user-attachments/assets/55b85241-46ad-4811-a2cb-7d98f3619e23) ![Screenshot 2024-09-13 at 02 51 35](https://github.com/user-attachments/assets/3dc4604b-0e02-472f-be9a-a95de5f3254f)
 
 ## SkinCare-Salon-NextJS-Website
 
